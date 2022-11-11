@@ -1,8 +1,12 @@
 /* ------------------- General ------------------- */
 
 body {
+	background-image: url(./3.jpg);
+	image-rendering: auto;
+}
+body {
 	font-family: 'Roboto', sans-serif;
-	color: #161616;
+	color: #040705;
 	margin: 0;
 
 	padding-bottom: 140px;
